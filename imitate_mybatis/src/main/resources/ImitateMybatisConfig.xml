@@ -1,0 +1,17 @@
+<configuration>
+
+
+<!--  定义数据库连接基本信息  -->
+    <dataSource>
+        <property name="driveClassName" value="com.mysql.cj.jdbc.Drive"/>
+        <property name="url" value="jdbc:mysql:///my_database"/>
+        <property name="userName" value="root"/>
+        <property name="password" value="root1234"/>
+    </dataSource>
+
+<!--  定义mapper文件路径 （定义的原因是方便解析时 只需要获取ImitateMybatisConfig.xml的路径即可） -->
+    <mappers>
+<!--    有多个mapper文件也可以用通配符    -->
+        <mapper resource="mapper/UserMapper.xml"/>
+    </mappers>
+</configuration>

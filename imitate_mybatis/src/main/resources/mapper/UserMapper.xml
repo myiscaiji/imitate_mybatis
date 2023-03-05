@@ -1,0 +1,7 @@
+<mapper nameSpace="UserMapper">
+
+    <select id="selectList" resultType="" parameterType="">
+        select * from User
+    </select>
+
+</mapper>
