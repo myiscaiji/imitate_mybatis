@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Persistence_layer_framework.iml" filepath="$PROJECT_DIR$/.idea/Persistence_layer_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imitate_mybatis/imitate_mybatis.iml" filepath="$PROJECT_DIR$/imitate_mybatis/imitate_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source_code/source_code.iml" filepath="$PROJECT_DIR$/source_code/source_code.iml" />
+    </modules>
+  </component>
+</project>
